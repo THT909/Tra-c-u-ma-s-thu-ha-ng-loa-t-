@@ -1,0 +1,5 @@
+{
+  "name": "Excel Tax Code Lookup Tool",
+  "description": "An application to look up Vietnamese company information by tax code (MST) from an uploaded Excel file and export the results back to Excel.",
+  "requestFramePermissions": []
+}
